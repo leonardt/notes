@@ -1,5 +1,16 @@
 ---
-tags: [leisure-reading], [outdoors], [native-american], [backpacking], [travel], [north-america], [national-parks]
+tags: 
+  - leisure-reading
+  - outdoors
+  - native-american
+  - backpacking
+  - travel
+  - north-america
+  - national-parks
+  - psychology
+  - spirituality
+  - journalism
+  - culture
 ---
 
 # Pure Land
