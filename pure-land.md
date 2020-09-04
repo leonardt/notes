@@ -1,7 +1,8 @@
 ---
-tags: [leisure-reading]
+tags: [leisure-reading], [outdoors], [native-american], [backpacking], [travel], [north-america], [national-parks]
 ---
 
 # Pure Land
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=lennytruong-20&marketplace=amazon&region=US&placement=0998527882&asins=0998527882&linkId=50b7d16f8bfdbbbeeb8434f1d4f976e0&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF"></iframe>
+<a target="_blank"  href="https://www.amazon.com/gp/product/0998527882/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0998527882&linkCode=as2&tag=lennytruong-20&linkId=c6360bd3ef1b615340ffb2dbea560ca2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0998527882&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lennytruong-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=lennytruong-20&l=am2&o=1&a=0998527882" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[Amazon Link](https://www.amazon.com/gp/product/0998527882/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0998527882&linkCode=as2&tag=lennytruong-20&linkId=8e65be704f2fbf54224923c2eba6e2ed)
