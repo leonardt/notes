@@ -4,7 +4,7 @@ tags:
   - leisure-reading
   - outdoors
   - climbing
-  - photography1
+  - photography
 ---
 
 # Stories Behind the Images: Lessons from a Life in Adventure Photography -- Corey Rich
