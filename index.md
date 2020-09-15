@@ -4,8 +4,6 @@ tags: [home]
 
 # Lenny's Notes
 
-[Academic Homepage](https://truong.io)
-
 You are viewing a my Zettelkasten published by [neuron](https://neuron.zettel.page/).
 
 - <77e6afe7> - Some books I have read and enjoyed
