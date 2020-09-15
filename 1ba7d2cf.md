@@ -5,6 +5,7 @@ tags:
   - outdoors
   - climbing
   - photography
+  - adventure
 ---
 
 # Stories Behind the Images: Lessons from a Life in Adventure Photography -- Corey Rich
