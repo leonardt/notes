@@ -16,6 +16,6 @@ tags:
   </a>
   <br>
   <a href="https://www.amazon.com/Stories-Behind-Images-Adventure-Photography/dp/1680512641/ref=as_li_ss_tl?crid=16S2KVOUJPHLX&dchild=1&keywords=corey+rich+stories+behind+the+images&qid=1600171021&sprefix=Corey+rich,aps,238&sr=8-1&linkCode=ll1&tag=lennytruong-20&linkId=6fc1f67c2c26c4b7aae5ee5c0a77bf00&language=en_US">
-    Amazon Link
+    Amazon (paid link)
   </a>
 </div>
