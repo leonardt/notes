@@ -6,6 +6,7 @@ tags: [home]
 
 You are viewing a my Zettelkasten published by [neuron](https://neuron.zettel.page/).
 
+- [[134061cf]] - Notes on hardware
 - <168b3feb> - News articles I have found interesting
 - <77e6afe7> - Some books I have read and enjoyed
 
